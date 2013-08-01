@@ -30,3 +30,4 @@ If you're using Cura to slice and a Makerbot to print, do not hesitate to point 
 - - -
 
 **Author** : Cyril Chapellier / CKAB (2013)
+**License** : MIT. Just don't blame me if your Makerbot explodes ...
