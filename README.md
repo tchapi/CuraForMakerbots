@@ -12,6 +12,8 @@ The output gcode will still lack a few tweaks to be compatible with Makerware.
 
 ## Converter script
 
+> Update : This script is no longer needed since [Ultimaker/CuraEngine@4f5b366](https://github.com/Ultimaker/CuraEngine/commit/4f5b366af2548d3682d3c23f0a9fecf10d564431)
+
 The script [Cura_gcode_converter.sh](Cura_gcode_converter.sh) converts the previously generated gcode to the Makerware format. You can then create an X3G from it in Makerware to print the model.
 
 **What is does** :
